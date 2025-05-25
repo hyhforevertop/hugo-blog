@@ -2,7 +2,7 @@
 title: "Android-Compose初步-摇骰子"
 date: 2024-07-09
 categories: 
-  - "安卓"
+  - "Android"
   - "web-develop"
 tags: 
   - "android"

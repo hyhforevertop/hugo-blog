@@ -2,7 +2,7 @@
 title: "HTB-Caption"
 date: 2024-09-18
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

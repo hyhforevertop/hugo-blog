@@ -8,8 +8,28 @@
     <language>en</language>
     <managingEditor>1659854684@qq.com (HYH)</managingEditor>
     <webMaster>1659854684@qq.com (HYH)</webMaster>
-    <copyright>© 2023-2025 hyhforever.top. All rights reserved. &lt;br&gt; 若是心田，变得荒芜，我也不辜负&lt;br&gt;&lt;a target=&#39;_blank&#39; href=&#39;https://beian.miit.gov.cn/&#39;&gt;蜀ICP备2023015836号&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>若是心田，变得荒芜，我也不辜负&lt;br&gt;&lt;br&gt;&lt;a target=&#39;_blank&#39; href=&#39;https://beian.miit.gov.cn/&#39;&gt;蜀ICP备2023015836号&lt;/a&gt; &lt;br&gt;&lt;br&gt; © 2023-2025 hyhforever.top. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hackmyvm</title>
+      <link>http://localhost:1313/categories/hackmyvm/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/hackmyvm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dockerlabs</title>
+      <link>http://localhost:1313/categories/dockerlabs/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/dockerlabs/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>HTB-Machine</title>
@@ -17,6 +37,176 @@
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <author>1659854684@qq.com (HYH)</author>
       <guid>http://localhost:1313/categories/htb-machine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vulnvm</title>
+      <link>http://localhost:1313/categories/vulnvm/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/vulnvm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thehackerslabs</title>
+      <link>http://localhost:1313/categories/thehackerslabs/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/thehackerslabs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vulnyx</title>
+      <link>http://localhost:1313/categories/vulnyx/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/vulnyx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ctf</title>
+      <link>http://localhost:1313/categories/ctf/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/ctf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/categories/web/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/categories/tutorial/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Htb-Sherlock</title>
+      <link>http://localhost:1313/categories/htb-sherlock/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/htb-sherlock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Htb-Fortresses</title>
+      <link>http://localhost:1313/categories/htb-fortresses/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/htb-fortresses/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Engineering-Practice</title>
+      <link>http://localhost:1313/categories/engineering-practice/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/engineering-practice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vulnhub</title>
+      <link>http://localhost:1313/categories/vulnhub/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/vulnhub/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>http://localhost:1313/categories/android/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/android/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web-Develop</title>
+      <link>http://localhost:1313/categories/web-develop/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/web-develop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web-Security</title>
+      <link>http://localhost:1313/categories/web-security/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/web-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vulnerability-Review</title>
+      <link>http://localhost:1313/categories/vulnerability-review/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/vulnerability-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web-Front-End</title>
+      <link>http://localhost:1313/categories/web-front-end/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/web-front-end/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pwn</title>
+      <link>http://localhost:1313/categories/pwn/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/pwn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>http://localhost:1313/categories/algorithm/</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/categories/algorithm/</guid>
       <description></description>
       
     </item>

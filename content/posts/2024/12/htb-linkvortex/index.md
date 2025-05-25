@@ -2,7 +2,7 @@
 title: "HTB-LinkVortex"
 date: 2024-12-09
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

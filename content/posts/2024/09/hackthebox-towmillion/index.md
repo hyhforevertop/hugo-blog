@@ -2,7 +2,7 @@
 title: "HTB-TowMillion"
 date: 2024-09-21
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

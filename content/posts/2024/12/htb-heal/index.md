@@ -2,7 +2,7 @@
 title: "HTB-Heal"
 date: 2024-12-15
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

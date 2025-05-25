@@ -2,7 +2,7 @@
 title: "HTB-Vintage"
 date: 2024-12-03
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "windows"

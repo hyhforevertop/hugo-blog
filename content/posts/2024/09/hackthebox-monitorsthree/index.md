@@ -2,7 +2,7 @@
 title: "HTB-MonitorsThree"
 date: 2024-09-12
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

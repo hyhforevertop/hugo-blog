@@ -2,7 +2,7 @@
 title: "HTB-Alert"
 date: 2024-11-30
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

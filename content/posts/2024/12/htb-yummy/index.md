@@ -2,7 +2,7 @@
 title: "HTB-Yummy"
 date: 2024-12-24
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

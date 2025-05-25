@@ -2,7 +2,7 @@
 title: "HTB-Sea"
 date: 2024-08-28
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

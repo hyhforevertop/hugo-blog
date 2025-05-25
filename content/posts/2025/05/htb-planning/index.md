@@ -18,7 +18,7 @@ As is common in real life pentests, you will start the Planning box with credent
 
 ## Nmap
 
-```
+```bash
 [root@kali] /home/kali/Planning  
 ❯ nmap planning.htb -sV -A                 
 
@@ -36,7 +36,7 @@ PORT   STATE SERVICE VERSION
 
 ## Subdomain Fuzz
 
-```
+```bash
 [root@kali] /home/kali/Planning  
 ❯ ffuf -u http://planning.htb/ -w /usr/share/fuzzDicts/subdomainDicts/main.txt -H "Host:FUZZ.planning.htb"  -fs 178
 
@@ -81,7 +81,7 @@ grafana                 [Status: 302, Size: 29, Words: 2, Lines: 3, Duration: 98
 
 查看一下`env`环境变量
 
-```
+```text
 GF_SECURITY_ADMIN_PASSWORD=RioTecRXXXXXXXXXXXXXXX
 GF_SECURITY_ADMIN_USER=enzo
 ```
@@ -96,7 +96,7 @@ GF_SECURITY_ADMIN_USER=enzo
 
 找到一个**json**文件
 
-```
+```bash
 ❯ cat crontab.db| jq
 {
   "name": "Grafana backup",

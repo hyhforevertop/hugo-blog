@@ -2,7 +2,7 @@
 title: "HTB-Instant"
 date: 2024-12-20
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

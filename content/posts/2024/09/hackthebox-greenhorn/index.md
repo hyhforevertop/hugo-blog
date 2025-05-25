@@ -2,7 +2,7 @@
 title: "HTB-Greenhorn"
 date: 2024-09-17
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

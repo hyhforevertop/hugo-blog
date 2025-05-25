@@ -2,7 +2,7 @@
 title: "HTB-BoardLight"
 date: 2024-09-04
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

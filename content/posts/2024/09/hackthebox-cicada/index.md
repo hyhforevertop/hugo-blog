@@ -2,7 +2,7 @@
 title: "HTB-Cicada"
 date: 2024-09-30
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "windows"

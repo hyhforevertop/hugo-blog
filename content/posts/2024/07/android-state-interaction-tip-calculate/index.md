@@ -2,7 +2,7 @@
 title: "Android-状态交互-TipCalculate"
 date: 2024-07-10
 categories: 
-  - "安卓"
+  - "Android"
   - "web-develop"
 tags: 
   - "android"

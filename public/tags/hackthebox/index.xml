@@ -8,15 +8,505 @@
     <language>en</language>
     <managingEditor>1659854684@qq.com (HYH)</managingEditor>
     <webMaster>1659854684@qq.com (HYH)</webMaster>
-    <copyright>© 2023-2025 hyhforever.top. All rights reserved. &lt;br&gt; 若是心田，变得荒芜，我也不辜负&lt;br&gt;&lt;a target=&#39;_blank&#39; href=&#39;https://beian.miit.gov.cn/&#39;&gt;蜀ICP备2023015836号&lt;/a&gt;</copyright>
+    <copyright>若是心田，变得荒芜，我也不辜负&lt;br&gt;&lt;br&gt;&lt;a target=&#39;_blank&#39; href=&#39;https://beian.miit.gov.cn/&#39;&gt;蜀ICP备2023015836号&lt;/a&gt; &lt;br&gt;&lt;br&gt; © 2023-2025 hyhforever.top. All rights reserved.</copyright>
     <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hackthebox/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HTB-Planning</title>
-      <link>http://localhost:1313/posts/htb-planning/</link>
+      <link>http://localhost:1313/posts/2025/05/htb-planning/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <author>1659854684@qq.com (HYH)</author>
-      <guid>http://localhost:1313/posts/htb-planning/</guid>
+      <guid>http://localhost:1313/posts/2025/05/htb-planning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Environment</title>
+      <link>http://localhost:1313/posts/2025/05/htb-environment/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/05/htb-environment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Eureka</title>
+      <link>http://localhost:1313/posts/2025/04/htb-eureka/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/04/htb-eureka/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Nocturnal</title>
+      <link>http://localhost:1313/posts/2025/04/htb-nocturnal/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/04/htb-nocturnal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Haze</title>
+      <link>http://localhost:1313/posts/2025/03/htb-haze/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/03/htb-haze/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Code</title>
+      <link>http://localhost:1313/posts/2025/03/htb-code/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/03/htb-code/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Strutted</title>
+      <link>http://localhost:1313/posts/2025/03/htb-strutted/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/03/htb-strutted/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-TheFrizz</title>
+      <link>http://localhost:1313/posts/2025/03/htb-thefrizz/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/03/htb-thefrizz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Dog</title>
+      <link>http://localhost:1313/posts/2025/03/htb-dog/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/03/htb-dog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Cypher</title>
+      <link>http://localhost:1313/posts/2025/03/htb-cypher/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/03/htb-cypher/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Checker</title>
+      <link>http://localhost:1313/posts/2025/02/htb-checker/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/02/htb-checker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Titanic</title>
+      <link>http://localhost:1313/posts/2025/02/htb-titanic/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/02/htb-titanic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Cat</title>
+      <link>http://localhost:1313/posts/2025/02/htb-cat/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/02/htb-cat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Backfire</title>
+      <link>http://localhost:1313/posts/2025/01/htb-backfire/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-backfire/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Active</title>
+      <link>http://localhost:1313/posts/2025/01/htb-active/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-active/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Blackfield</title>
+      <link>http://localhost:1313/posts/2025/01/htb-blackfield/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-blackfield/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Cascade</title>
+      <link>http://localhost:1313/posts/2025/01/htb-cascade/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-cascade/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Forest</title>
+      <link>http://localhost:1313/posts/2025/01/htb-forest/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-forest/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Headless</title>
+      <link>http://localhost:1313/posts/2025/01/htb-headless/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-headless/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Resolute</title>
+      <link>http://localhost:1313/posts/2025/01/htb-resolute/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-resolute/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Sauna</title>
+      <link>http://localhost:1313/posts/2025/01/htb-sauna/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-sauna/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-EscapeTwo</title>
+      <link>http://localhost:1313/posts/2025/01/htb-escapetwo/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2025/01/htb-escapetwo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Yummy</title>
+      <link>http://localhost:1313/posts/2024/12/htb-yummy/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-yummy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-UnderPass</title>
+      <link>http://localhost:1313/posts/2024/12/htb-underpass/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-underpass/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sherlocks-Reaper</title>
+      <link>http://localhost:1313/posts/2024/12/sherlocks-reaper/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/sherlocks-reaper/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Instant</title>
+      <link>http://localhost:1313/posts/2024/12/htb-instant/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-instant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fortresses-Jet</title>
+      <link>http://localhost:1313/posts/2024/12/fortresses-jet/</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/fortresses-jet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Chemistry</title>
+      <link>http://localhost:1313/posts/2024/12/htb-chemistry/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-chemistry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Heal</title>
+      <link>http://localhost:1313/posts/2024/12/htb-heal/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-heal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-LinkVortex</title>
+      <link>http://localhost:1313/posts/2024/12/htb-linkvortex/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-linkvortex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Certified</title>
+      <link>http://localhost:1313/posts/2024/12/htb-certified/</link>
+      <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-certified/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Administrator</title>
+      <link>http://localhost:1313/posts/2024/12/htb-administrator/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/htb-administrator/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Vintage</title>
+      <link>http://localhost:1313/posts/2024/12/hackthebox-vintage/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/12/hackthebox-vintage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Alert</title>
+      <link>http://localhost:1313/posts/2024/11/htb-alert/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/11/htb-alert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Cap</title>
+      <link>http://localhost:1313/posts/2024/11/hackthebox-cap/</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/11/hackthebox-cap/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Cicada</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-cicada/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-cicada/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Trickster</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-trickster/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-trickster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-TowMillion</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-towmillion/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-towmillion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Solarlab</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-solarlab/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-solarlab/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Caption</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-caption/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-caption/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Greenhorn</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-greenhorn/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-greenhorn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-MonitorsThree</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-monitorsthree/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-monitorsthree/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Blurry</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-blurry/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-blurry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Sightless</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-sightless/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-sightless/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Mailing</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-mailing/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-mailing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-BoardLight</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-boardlight/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-boardlight/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Editorial</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-editorial/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-editorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-PermX</title>
+      <link>http://localhost:1313/posts/2024/09/hackthebox-permx/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/09/hackthebox-permx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Compiled</title>
+      <link>http://localhost:1313/posts/2024/08/hackthebox-compiled/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/08/hackthebox-compiled/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTB-Sea</title>
+      <link>http://localhost:1313/posts/2024/08/hackthebox-sea/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/2024/08/hackthebox-sea/</guid>
       <description></description>
       
     </item>

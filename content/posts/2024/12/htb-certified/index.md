@@ -2,7 +2,7 @@
 title: "HTB-Certified"
 date: 2024-12-08
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "windows"

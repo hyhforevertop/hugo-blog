@@ -2,7 +2,7 @@
 title: "HTB-Chemistry"
 date: 2024-12-17
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

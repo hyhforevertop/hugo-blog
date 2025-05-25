@@ -2,7 +2,7 @@
 title: "HTB-PermX"
 date: 2024-09-03
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"

@@ -8,11 +8,11 @@ title = "HYH's Blog"
   displayName = "zh-cn"
   isoCode = "zh-cn"
   rtl = false
-  dateFormat = "2006年 2月 2日"
+  dateFormat = "2006-01-02"
    logo = "img/logo_night.png"
    #secondaryLogo = "img/logo_night.png"
    description = "这是一个专注于网络安全、CTF 挑战和技术分享的个人博客，涵盖 Dockerlabs、HackMyVM、HTB 等平台的实战经验，并提供实用工具如反弹 Shell 生成器和 CyberChef。网站内容丰富，适合安全爱好者和技术从业者深入学习与交流。"
-   copyright = "© 2023-2025 hyhforever.top. All rights reserved. <br> 若是心田，变得荒芜，我也不辜负<br><a target='_blank' href='https://beian.miit.gov.cn/'>蜀ICP备2023015836号</a>"
+   copyright = "若是心田，变得荒芜，我也不辜负<br><br><a target='_blank' href='https://beian.miit.gov.cn/'>蜀ICP备2023015836号</a> <br><br> © 2023-2025 hyhforever.top. All rights reserved."
 
  [params.author]
    name = "HYH"

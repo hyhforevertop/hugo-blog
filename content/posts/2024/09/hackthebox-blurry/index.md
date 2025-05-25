@@ -2,7 +2,7 @@
 title: "HTB-Blurry"
 date: 2024-09-11
 categories: 
-  - "渗透测试"
+  - "HTB-Machine"
 tags: 
   - "hackthebox"
   - "linux"
