@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on HYH&#39;s Blog</title>
+    <link>http://localhost:1313/links/</link>
+    <description>Recent content in Links on HYH&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1659854684@qq.com (HYH)</managingEditor>
+    <webMaster>1659854684@qq.com (HYH)</webMaster>
+    <copyright>© 2023-2025 hyhforever.top. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/links/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我的 Medium 文章</title>
+      <link>http://localhost:1313/links/friend1/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/links/friend1/</guid>
+      <description>我在Medium上写了一篇文章。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

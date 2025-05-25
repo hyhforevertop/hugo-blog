@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HYH&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on HYH&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>1659854684@qq.com (HYH)</managingEditor>
+    <webMaster>1659854684@qq.com (HYH)</webMaster>
+    <copyright>© 2023-2025 hyhforever.top. All rights reserved. &lt;br&gt; 若是心田，变得荒芜，我也不辜负&lt;br&gt;&lt;a target=&#39;_blank&#39; href=&#39;https://beian.miit.gov.cn/&#39;&gt;蜀ICP备2023015836号&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HTB-Planning</title>
+      <link>http://localhost:1313/posts/htb-planning/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <author>1659854684@qq.com (HYH)</author>
+      <guid>http://localhost:1313/posts/htb-planning/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
